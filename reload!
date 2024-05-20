@@ -1,0 +1,1 @@
+movie = Movie.find_by(title: "Late Night With The Devil")
